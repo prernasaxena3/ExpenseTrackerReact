@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/OnlineCodeEditor2.0/static/css/main.571e6405.chunk.css",
-    "main.js": "/OnlineCodeEditor2.0/static/js/main.ebc0c0f3.chunk.js",
-    "main.js.map": "/OnlineCodeEditor2.0/static/js/main.ebc0c0f3.chunk.js.map",
-    "runtime-main.js": "/OnlineCodeEditor2.0/static/js/runtime-main.e11963c8.js",
-    "runtime-main.js.map": "/OnlineCodeEditor2.0/static/js/runtime-main.e11963c8.js.map",
-    "static/js/2.b190f742.chunk.js": "/OnlineCodeEditor2.0/static/js/2.b190f742.chunk.js",
-    "static/js/2.b190f742.chunk.js.map": "/OnlineCodeEditor2.0/static/js/2.b190f742.chunk.js.map",
-    "index.html": "/OnlineCodeEditor2.0/index.html",
-    "precache-manifest.39862f7312afea85c2f9c7165e565894.js": "/OnlineCodeEditor2.0/precache-manifest.39862f7312afea85c2f9c7165e565894.js",
-    "service-worker.js": "/OnlineCodeEditor2.0/service-worker.js",
-    "static/css/main.571e6405.chunk.css.map": "/OnlineCodeEditor2.0/static/css/main.571e6405.chunk.css.map",
-    "static/js/2.b190f742.chunk.js.LICENSE.txt": "/OnlineCodeEditor2.0/static/js/2.b190f742.chunk.js.LICENSE.txt"
+    "main.css": "/ExpenseTrackerReact/static/css/main.571e6405.chunk.css",
+    "main.js": "/ExpenseTrackerReact/static/js/main.ebc0c0f3.chunk.js",
+    "main.js.map": "/ExpenseTrackerReact/static/js/main.ebc0c0f3.chunk.js.map",
+    "runtime-main.js": "/ExpenseTrackerReact/static/js/runtime-main.7c5a37a1.js",
+    "runtime-main.js.map": "/ExpenseTrackerReact/static/js/runtime-main.7c5a37a1.js.map",
+    "static/js/2.b190f742.chunk.js": "/ExpenseTrackerReact/static/js/2.b190f742.chunk.js",
+    "static/js/2.b190f742.chunk.js.map": "/ExpenseTrackerReact/static/js/2.b190f742.chunk.js.map",
+    "index.html": "/ExpenseTrackerReact/index.html",
+    "precache-manifest.3219b8dd8bfc8b7361dece65facc2719.js": "/ExpenseTrackerReact/precache-manifest.3219b8dd8bfc8b7361dece65facc2719.js",
+    "service-worker.js": "/ExpenseTrackerReact/service-worker.js",
+    "static/css/main.571e6405.chunk.css.map": "/ExpenseTrackerReact/static/css/main.571e6405.chunk.css.map",
+    "static/js/2.b190f742.chunk.js.LICENSE.txt": "/ExpenseTrackerReact/static/js/2.b190f742.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.e11963c8.js",
+    "static/js/runtime-main.7c5a37a1.js",
     "static/js/2.b190f742.chunk.js",
     "static/css/main.571e6405.chunk.css",
     "static/js/main.ebc0c0f3.chunk.js"
